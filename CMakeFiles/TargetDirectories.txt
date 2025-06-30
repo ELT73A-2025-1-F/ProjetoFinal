@@ -1,0 +1,6 @@
+C:/Users/toret/OneDrive/Documentos/projetos/ProjetoFinal/CMakeFiles/ProjetoFinal.dir
+C:/Users/toret/OneDrive/Documentos/projetos/ProjetoFinal/CMakeFiles/edit_cache.dir
+C:/Users/toret/OneDrive/Documentos/projetos/ProjetoFinal/CMakeFiles/rebuild_cache.dir
+C:/Users/toret/OneDrive/Documentos/projetos/ProjetoFinal/cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir
+C:/Users/toret/OneDrive/Documentos/projetos/ProjetoFinal/cmake/stm32cubemx/CMakeFiles/edit_cache.dir
+C:/Users/toret/OneDrive/Documentos/projetos/ProjetoFinal/cmake/stm32cubemx/CMakeFiles/rebuild_cache.dir
