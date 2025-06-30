@@ -1,3 +1,7 @@
-This project is a traffic light modified to green to keep being green until the button stops being pushed.
+Esse projeto é um sinaleiro modificado para que a cor verde continue verde até que o botão se solte, para auxiliar pessoas com necessidades especiais passarem
 
-It uses 3 leds, resistors and stm32 to do so, with cmake code generation done in cubeMX.
+3 leds
+3 resistores
+1 botão
+stm32 
+Geração de código com cubeMX
